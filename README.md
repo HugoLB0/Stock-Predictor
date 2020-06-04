@@ -8,7 +8,7 @@ Edit the path of .csv file in predict_full.py if necessary.
 ```sh
 $ cd /to/your/path
 $ pip3 install -r requirements.txt
-$ python3 predict_full.py 
+$ python3 run.py 
 ```
 # Contact:
 email: pyrra@mail.com
