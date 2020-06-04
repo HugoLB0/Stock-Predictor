@@ -11,5 +11,5 @@ $ pip3 install -r requirements.txt
 $ python3 run.py 
 ```
 # Contact:
-email: pyrra@mail.com
-website: https://pyrra.net
+email: hugolebelzic@gmail.com
+website: https://hugo.lebelzic.com
